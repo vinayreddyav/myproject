@@ -1,0 +1,242 @@
+{
+  "TemplateName": "DefaultBatchTemplate",
+  "CreatedBy": "SYSTEM",
+  "Status": "Active",
+  "Jobs": [
+    {
+      "JobKey": "CLIENTID_LIST_ACQUIRING",
+      "JobName": "Acquiring the list of ClientId",
+      "JobDescription": "Collecting the ClientIds for the new campaign",
+      "JobType": "Manual",
+      "JobDependencies": [],
+      "ServiceDependencies": [],
+      "DisplayOrder": 1,
+      "Visible": true
+    },
+    {
+      "JobKey": "DOCUMENT_EXTRACTION",
+      "JobName": "Ged Document Extraction",
+      "JobDescription": "Extracting the GED Document ",
+      "JobType": "Manual",
+      "JobDependencies": [ { "JobKey": "CLIENTID_LIST_ACQUIRING" } ],
+      "ServiceDependencies": [],
+      "DisplayOrder": 2,
+      "Visible": true
+    },
+    {
+      "JobKey": "DOCUMENT_PREPROCESS",
+      "JobName": "Document PreProcess",
+      "JobDescription": "Document conversion from pdf to jpeg,removing the background noises",
+      "JobType": "Automatic",
+      "JobDependencies": [ { "JobKey": "DOCUMENT_EXTRACTION" } ],
+      "ServiceDependencies": [
+        {
+          "ServiceKey": "REFERENCESERVICE",
+          "ServiceType": "Service"
+        },
+        {
+          "ServiceKey": "MONGODATABASE",
+          "ServiceType": "Datastore"
+        },
+        {
+          "ServiceKey": "FILESTORE",
+          "ServiceType": "Filestore"
+        },
+        {
+          "ServiceKey": "EVENTBUS",
+          "ServiceType": "MessageBroker"
+        }
+      ],
+      "DisplayOrder": 3,
+      "Visible": true
+    },
+    {
+      "JobKey": "DOCUMENT_RECOGNIZATION",
+      "JobName": "Document Recognization",
+      "JobDescription": "Document Classifications",
+      "JobType": "Automatic",
+      "JobDependencies": [ { "JobKey": "DOCUMENT_PREPROCESS" } ],
+      "ServiceDependencies": [
+        {
+          "ServiceJKey": "DOCUMENTSREVICE",
+          "ServiceType": "Service"
+        },
+        {
+          "ServiceKey": "MONGODATABASE",
+          "ServiceType": "Datastore"
+        },
+        {
+          "ServiceKey": "FILESTORE",
+          "ServiceType": "Filestore"
+        },
+        {
+          "ServiceKey": "EVENTBUS",
+          "ServiceType": "MessageBroker"
+        }
+      ],
+      "DisplayOrder": 4,
+      "Visible": true
+    },
+    {
+      "JobKey": "DOCUMENT_INTEGRATE_WITHOCR",
+      "JobName": "PDFs Upload",
+      "JobDescription": "Upload PDFs to SFTP Server",
+      "JobType": "Automatic",
+      "JobDependencies": [ { "JobKey": "DOCUMENT_RECOGNIZATION" } ],
+      "ServiceDependencies": [],
+      "DisplayOrder": 5,
+      "Visible": false
+    },
+    {
+      "JobKey": "DOCUMENT_INTEGRATE_WITHTEMPLATEOCR",
+      "JobName": "PDFs Upload and download for Template Ocr",
+      "JobDescription": "Upload PDFs to SFTP Server",
+      "JobType": "Automatic",
+      "JobDependencies": [ { "JobKey": "DOCUMENT_RECOGNIZATION" } ],
+      "ServiceDependencies": [],
+      "DisplayOrder": 6,
+      "Visible": true
+    },
+    {
+      "JobKey": "DOCUMENT_INTEGRATE_WITHRECOGNITIONOCR",
+      "JobName": "PDFs Upload and download for Recognition server",
+      "JobDescription": "Upload PDFs to Recognition Server",
+      "JobType": "Automatic",
+      "JobDependencies": [ { "JobKey": "DOCUMENT_RECOGNIZATION" } ],
+      "ServiceDependencies": [],
+      "DisplayOrder": 7,
+      "Visible": true
+    },   
+    {
+      "JobKey": "DOCUMENT_DATA_LOAD",
+      "JobName": "Document Extract Data Loading",
+      "JobDescription": "Abbys OCR and Flexicature data extracts",
+      "JobType": "Manual",
+      "JobDependencies": [ { "JobKey": "DOCUMENT_DOWNLOAD_FROMOCR_EXTRACTION" } ],
+      "ServiceJobDependencies": [
+        {
+          "ServiceKey": "MONGODATABASE",
+          "ServiceType": "Datastore"
+        },
+        {
+          "ServiceKey": "FILESTORE",
+          "ServiceType": "Filestore"
+        },
+        {
+          "ServiceKey": "EVENTBUS",
+          "ServiceType": "MessageBroker"
+        }
+      ],
+      "DisplayOrder": 8,
+      "Visible": true
+    },
+    {
+      "JobKey": "CONTACT_DATA_LOAD",
+      "JobName": "Contact Data Loading",
+      "JobDescription": "Contact Loading",
+      "JobType": "System",
+      "JobDependencies": [
+        {
+          "JobKey": "CLIENTID_LIST_ACQUIRING"
+        }
+      ],
+      "ServiceJobDependencies": [
+        {
+          "ServiceJobKey": "MONGODATABASE",
+          "ServiceType": "Datastore"
+        },
+        {
+          "ServiceJobKey": "FILESTORE",
+          "ServiceType": "Filestore"
+        },
+        {
+          "ServiceJobKey": "EVENTBUS",
+          "ServiceType": "MessageBroker"
+        }
+      ],
+      "DisplayOrder": 9,
+      "Visible": true
+    },
+    {
+      "JobKey": "PROCESS_CONTROL",
+      "JobName": "Process the controls",
+      "JobDescription": "Process the controls",
+      "JobType": "Automatic",
+      "JobDependencies": [
+        { "JobKey": "DOCUMENT_DOWNLOAD_FROMOCR_EXTRACTION" },
+        { "JobKey": "CONTACT_DATA_LOAD" }
+      ],
+      "ServiceJobDependencies": [
+        {
+          "ServiceKey": "MONGODATABASE",
+          "ServiceType": "Datastore"
+        },
+        {
+          "ServiceKey": "FILESTORE",
+          "ServiceType": "Filestore"
+        },
+        {
+          "ServiceKey": "EVENTBUS",
+          "ServiceType": "MessageBroker"
+        },
+        {
+          "ServiceKey": "IDPROOFSERVICE",
+          "ServiceType": "Service"
+        },
+        {
+          "ServiceKey": "ADDRESSPROOFSERVICE",
+          "JobType": "Service"
+        },
+        {
+          "ServiceKey": "INCOMESERVICE",
+          "ServiceType": "Service"
+        },
+        {
+          "ServiceKey": "PICTURERECOGNIZATIONSERVICE",
+          "ServiceType": "Service"
+        },
+        {
+          "ServiceKey": "DOCUMENTSREVICE",
+          "ServiceType": "Service"
+        },
+        {
+          "ServiceKey": "REFERENCESERVICE",
+          "ServiceType": "Service"
+        },
+        {
+          "ServiceKey": "EvidenceService",
+          "ServiceType": "Service"
+        },
+        {
+          "ServiceKey": "REPORTCOLLECTIONSERVICE",
+          "ServiceType": "Service"
+        }
+      ],
+      "DisplayOrder": 10,
+      "Visible": true
+    },
+    {
+      "JobKey": "REPORT_GENERATION",
+      "JobName": "Report Generation",
+      "JobDescription": "Generate the report for the process controls",
+      "JobType": "Automatic",
+      "JobDependencies": [ { "JobKey": "PROCESS_CONTROL" } ],
+      "ServiceJobDependencies": [
+        {
+          "ServiceKey": "MONGODATABASE",
+          "ServiceType": "Datastore"
+        },
+        {
+          "ServiceKey": "FILESTORE",
+          "ServiceType": "Filestore"
+        },
+        {
+          "ServiceKey": "EVENTBUS",
+          "ServiceType": "MessageBroker"
+        }
+      ],
+      "DisplayOrder": 11,
+      "Visible": true
+    }
+  ]
+}
