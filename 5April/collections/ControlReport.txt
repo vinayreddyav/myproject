@@ -1,0 +1,2226 @@
+{ 
+    "_id" : ObjectId("5ab2027b0f45df1cc42487c4"), 
+    "transactionreferenceno" : "6070460339800200", 
+    "pscreateddate" : ISODate("2018-01-01T06:57:14.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2110ea16521252c739cb8"), 
+    "transactionreferenceno" : "25-109553-2-1", 
+    "pscreateddate" : ISODate("2018-01-01T07:59:33.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab212cc7dde3b0ec0b356a3"), 
+    "transactionreferenceno" : "06997PTS0024193A", 
+    "pscreateddate" : ISODate("2018-01-02T08:05:58.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab213717dde3b0ec0b356a5"), 
+    "transactionreferenceno" : "00940-11-0033948", 
+    "pscreateddate" : ISODate("2018-01-02T08:09:01.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2140e7dde3b0ec0b356a8"), 
+    "transactionreferenceno" : ":SEME//HT56953640A", 
+    "pscreateddate" : ISODate("2018-01-03T08:11:22.000+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Incorrect Comment", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab214907dde3b0ec0b356aa"), 
+    "transactionreferenceno" : "RDUOCB465081CRT", 
+    "pscreateddate" : ISODate("2018-01-03T08:11:22.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "null", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2155351b4a40ee02224f7"), 
+    "transactionreferenceno" : "6880EUDC1873841", 
+    "pscreateddate" : ISODate("2018-01-04T08:17:26.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2157551b4a40ee02224f8"), 
+    "transactionreferenceno" : "9122300002GP", 
+    "pscreateddate" : ISODate("2018-01-04T08:17:26.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2159651b4a40ee02224f9"), 
+    "transactionreferenceno" : "82011-0173756HKG", 
+    "pscreateddate" : ISODate("2018-01-05T08:17:26.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab215ac51b4a40ee02224fa"), 
+    "transactionreferenceno" : "RMBCC020118A", 
+    "pscreateddate" : ISODate("2018-01-05T08:17:26.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab215d851b4a40ee02224fb"), 
+    "transactionreferenceno" : "2018010200197520", 
+    "pscreateddate" : ISODate("2018-01-08T08:17:26.000+0000"), 
+    "entity" : "SG Mumbai", 
+    "operator" : "ASAKUMA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2160c51b4a40ee02224fc"), 
+    "transactionreferenceno" : "25-110916-2--1", 
+    "pscreateddate" : ISODate("2018-01-08T08:17:26.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASAKUMA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2165551b4a40ee02224fd"), 
+    "transactionreferenceno" : "ZJZ01IL000005303", 
+    "pscreateddate" : ISODate("2018-01-09T08:17:26.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASAKUMA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2166e51b4a40ee02224fe"), 
+    "transactionreferenceno" : "00001CDI09080213", 
+    "pscreateddate" : ISODate("2018-01-09T08:17:26.000+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASAKUMA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab222a151b4a40ee0222500"), 
+    "transactionreferenceno" : ":SEME//NT00025457A", 
+    "pscreateddate" : ISODate("2018-01-10T09:14:09.000+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASAKUMA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab222d551b4a40ee0222502"), 
+    "transactionreferenceno" : "6880ELCA1762159", 
+    "pscreateddate" : ISODate("2018-01-10T09:14:09.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASAKUMA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab222f751b4a40ee0222503"), 
+    "transactionreferenceno" : "25-110995-2-1", 
+    "pscreateddate" : ISODate("2018-01-11T09:14:09.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2231c51b4a40ee0222504"), 
+    "transactionreferenceno" : "06997FXH8078820A", 
+    "pscreateddate" : ISODate("2018-01-11T09:14:09.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2237a51b4a40ee0222506"), 
+    "transactionreferenceno" : ":CORP//185268", 
+    "pscreateddate" : ISODate("2018-01-12T09:18:16.000+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab223b151b4a40ee0222507"), 
+    "transactionreferenceno" : "82011-0173550HKG", 
+    "pscreateddate" : ISODate("2018-01-12T09:18:16.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "No Screenshot", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab223df51b4a40ee0222508"), 
+    "transactionreferenceno" : "2018010200151420", 
+    "pscreateddate" : ISODate("2018-01-15T09:18:16.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "null", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2241451b4a40ee0222509"), 
+    "transactionreferenceno" : "06997FXH8080630A", 
+    "pscreateddate" : ISODate("2018-01-16T09:18:16.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "null", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2242b51b4a40ee022250a"), 
+    "transactionreferenceno" : "25-110995-2", 
+    "pscreateddate" : ISODate("2018-01-16T09:18:16.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "null", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2244b51b4a40ee022250b"), 
+    "transactionreferenceno" : "2880ELCA18862181", 
+    "pscreateddate" : ISODate("2018-01-17T09:18:16.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "null", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2247851b4a40ee022250c"), 
+    "transactionreferenceno" : "1708562029", 
+    "pscreateddate" : ISODate("2018-01-17T09:18:16.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "null", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab227d051b4a40ee022250f"), 
+    "transactionreferenceno" : "00751CDI09083414", 
+    "pscreateddate" : ISODate("2018-01-18T09:34:59.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2284a51b4a40ee0222511"), 
+    "transactionreferenceno" : "00102CDI00069753", 
+    "pscreateddate" : ISODate("2018-01-18T09:34:59.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Released from Pending", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2288951b4a40ee0222512"), 
+    "transactionreferenceno" : "1881ELCA1761157", 
+    "pscreateddate" : ISODate("2018-01-19T09:39:34.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASTRANG", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab228f051b4a40ee0222514"), 
+    "transactionreferenceno" : "005MPBLU0019317", 
+    "pscreateddate" : ISODate("2018-01-19T09:41:16.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASTRANG", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2293251b4a40ee0222516"), 
+    "transactionreferenceno" : "E798180103026077", 
+    "pscreateddate" : ISODate("2018-01-22T09:41:16.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASTRANG", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2294c51b4a40ee0222517"), 
+    "transactionreferenceno" : "1881EUDC1773664", 
+    "pscreateddate" : ISODate("2018-01-22T09:41:16.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASTRANG", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab229ba51b4a40ee0222519"), 
+    "transactionreferenceno" : "BP33225B70552601", 
+    "pscreateddate" : ISODate("2018-01-22T09:44:25.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASTRANG", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab229f751b4a40ee022251a"), 
+    "transactionreferenceno" : "RDUOCB465162CRT", 
+    "pscreateddate" : ISODate("2018-01-23T09:44:25.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASTRANG", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Released from Pending", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22a8051b4a40ee022251c"), 
+    "transactionreferenceno" : "82011-0173792HKG", 
+    "pscreateddate" : ISODate("2018-01-23T09:44:25.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Released from Pending", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22aa451b4a40ee022251d"), 
+    "transactionreferenceno" : "6880EUDC1771489", 
+    "pscreateddate" : ISODate("2018-01-24T09:44:25.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Released from Pending", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22af851b4a40ee022251f"), 
+    "transactionreferenceno" : "131FSW1800092", 
+    "pscreateddate" : ISODate("2018-01-24T09:50:09.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22b1e51b4a40ee0222520"), 
+    "transactionreferenceno" : "6041800002HI", 
+    "pscreateddate" : ISODate("2018-01-24T09:50:09.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22b3d51b4a40ee0222521"), 
+    "transactionreferenceno" : "82011-0161830HKG", 
+    "pscreateddate" : ISODate("2018-01-25T09:50:09.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22b5d51b4a40ee0222522"), 
+    "transactionreferenceno" : ":CORP//134763", 
+    "pscreateddate" : ISODate("2018-01-25T09:50:09.000+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22be351b4a40ee0222524"), 
+    "transactionreferenceno" : "96001-0002595SGD", 
+    "pscreateddate" : ISODate("2018-01-25T09:53:52.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVENK", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22c3a51b4a40ee0222525"), 
+    "transactionreferenceno" : "82011-0173122HKG", 
+    "pscreateddate" : ISODate("2018-01-26T09:53:52.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVENK", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Released instead of Pending", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22c7151b4a40ee0222526"), 
+    "transactionreferenceno" : "IH0401003414463", 
+    "pscreateddate" : ISODate("2018-01-26T09:56:19.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVENK", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22c9751b4a40ee0222527"), 
+    "transactionreferenceno" : "5880EUDC1770709", 
+    "pscreateddate" : ISODate("2018-01-29T09:56:19.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVENK", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22cb851b4a40ee0222528"), 
+    "transactionreferenceno" : "82011-0151039HKG", 
+    "pscreateddate" : ISODate("2018-01-29T09:56:19.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVENK", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22d0751b4a40ee0222529"), 
+    "transactionreferenceno" : ":SEME//HT57023554A", 
+    "pscreateddate" : ISODate("2018-01-30T09:56:19.000+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22d2751b4a40ee022252a"), 
+    "transactionreferenceno" : "005OUTTT0002618", 
+    "pscreateddate" : ISODate("2018-01-30T09:56:19.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22dea51b4a40ee022252c"), 
+    "transactionreferenceno" : "2018010400088430", 
+    "pscreateddate" : ISODate("2018-01-31T10:01:05.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22e1651b4a40ee022252d"), 
+    "transactionreferenceno" : "1801040388911000", 
+    "pscreateddate" : ISODate("2018-01-31T10:01:05.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2343c51b4a40ee022252e"), 
+    "transactionreferenceno" : "NOSTINTREQ-TOK", 
+    "pscreateddate" : ISODate("2018-01-15T10:01:05.000+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2355951b4a40ee0222530"), 
+    "transactionreferenceno" : "06997FXH7449291A", 
+    "pscreateddate" : ISODate("2018-02-28T10:01:05.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab227967166c30c7429fdcc"), 
+    "transactionreferenceno" : "TRF/FVB 152767", 
+    "pscreateddate" : ISODate("2018-01-31T09:35:25.000+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab227f27166c30c7429fdcd"), 
+    "transactionreferenceno" : "00102CDI00069525", 
+    "pscreateddate" : ISODate("2018-02-01T09:36:38.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab228656d4fab2ae048f920"), 
+    "transactionreferenceno" : "RDUOCB465570CRT", 
+    "pscreateddate" : ISODate("2018-02-01T09:38:30.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab228f96d4fab2ae048f922"), 
+    "transactionreferenceno" : "06997PEC9235662B", 
+    "pscreateddate" : ISODate("2018-03-21T09:41:48.143+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab229286d4fab2ae048f923"), 
+    "transactionreferenceno" : "06997FXH8116451A", 
+    "pscreateddate" : ISODate("2018-02-02T09:42:25.000+0000"), 
+    "entity" : "SG SEOUL", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab229856d4fab2ae048f924"), 
+    "transactionreferenceno" : ":CORP//184494", 
+    "pscreateddate" : ISODate("2018-02-02T09:43:09.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab229ba6d4fab2ae048f925"), 
+    "transactionreferenceno" : "005IMPLC0000118", 
+    "pscreateddate" : ISODate("2018-02-05T09:44:44.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASTGOUT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab229e66d4fab2ae048f926"), 
+    "transactionreferenceno" : "005FFIBG0000116", 
+    "pscreateddate" : ISODate("2018-02-05T09:45:35.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASTGOUT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22a1b6d4fab2ae048f927"), 
+    "transactionreferenceno" : "2018010400058820", 
+    "pscreateddate" : ISODate("2018-02-06T09:46:24.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASTGOUT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22a526d4fab2ae048f928"), 
+    "transactionreferenceno" : "SG18SOL01052", 
+    "pscreateddate" : ISODate("2018-02-06T09:47:15.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASTGOUT", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "No Screenshot", 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22a7d6d4fab2ae048f929"), 
+    "transactionreferenceno" : "1881ELCA1761938", 
+    "pscreateddate" : ISODate("2018-02-06T09:48:09.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASTGOUT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22aa66d4fab2ae048f92a"), 
+    "transactionreferenceno" : "00045CDI17000985", 
+    "pscreateddate" : ISODate("2018-02-07T09:48:51.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSRAJA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22ad56d4fab2ae048f92b"), 
+    "transactionreferenceno" : "SG17ILC04528", 
+    "pscreateddate" : ISODate("2018-02-07T09:49:34.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSRAJA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22afb6d4fab2ae048f92c"), 
+    "transactionreferenceno" : "00940-11-0035580", 
+    "pscreateddate" : ISODate("2018-02-08T09:50:18.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSRAJA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22b766d4fab2ae048f92e"), 
+    "transactionreferenceno" : "005FOTCG0000518", 
+    "pscreateddate" : ISODate("2018-03-21T09:52:20.846+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASSRAJA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22bbb6d4fab2ae048f92f"), 
+    "transactionreferenceno" : ":CORP//184634", 
+    "pscreateddate" : ISODate("2018-02-08T09:53:02.000+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASSRAJA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22bf16d4fab2ae048f930"), 
+    "transactionreferenceno" : ":SEME//HT57070409A", 
+    "pscreateddate" : ISODate("2018-02-09T09:54:08.000+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22c216d4fab2ae048f931"), 
+    "transactionreferenceno" : "06997FXH1801059A", 
+    "pscreateddate" : ISODate("2018-02-09T09:55:01.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22c476d4fab2ae048f932"), 
+    "transactionreferenceno" : "TPCM0501000274", 
+    "pscreateddate" : ISODate("2018-02-12T09:55:50.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22c736d4fab2ae048f933"), 
+    "transactionreferenceno" : "92011-0018022JPN", 
+    "pscreateddate" : ISODate("2018-02-12T09:56:30.000+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Incorrect Comment", 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22c9e6d4fab2ae048f934"), 
+    "transactionreferenceno" : "6880FODB1772691", 
+    "pscreateddate" : ISODate("2018-02-13T09:57:13.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22cc36d4fab2ae048f935"), 
+    "transactionreferenceno" : "ASL20180105", 
+    "pscreateddate" : ISODate("2018-02-13T09:57:55.000+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22cf86d4fab2ae048f936"), 
+    "transactionreferenceno" : "HK105018BI615000", 
+    "pscreateddate" : ISODate("2018-02-14T09:58:32.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22d4d6d4fab2ae048f938"), 
+    "transactionreferenceno" : ":SEME//AT02647687A", 
+    "pscreateddate" : ISODate("2018-03-21T10:00:07.936+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22d786d4fab2ae048f939"), 
+    "transactionreferenceno" : "06997PEC9602349A", 
+    "pscreateddate" : ISODate("2018-02-14T10:00:49.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22da46d4fab2ae048f93a"), 
+    "transactionreferenceno" : "F60105443515000", 
+    "pscreateddate" : ISODate("2018-02-15T10:01:32.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22ddb6d4fab2ae048f93b"), 
+    "transactionreferenceno" : "00111CDI18000003", 
+    "pscreateddate" : ISODate("2018-02-15T10:02:21.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22e2b6d4fab2ae048f93c"), 
+    "transactionreferenceno" : "000000385914", 
+    "pscreateddate" : ISODate("2018-02-15T10:03:15.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22e946d4fab2ae048f93d"), 
+    "transactionreferenceno" : "812027453291", 
+    "pscreateddate" : ISODate("2018-02-16T10:04:32.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22ec66d4fab2ae048f93e"), 
+    "transactionreferenceno" : "005XPLCSC171825", 
+    "pscreateddate" : ISODate("2018-02-16T10:06:18.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Responsibility Miss", 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22eeb6d4fab2ae048f93f"), 
+    "transactionreferenceno" : "005410738", 
+    "pscreateddate" : ISODate("2018-02-19T10:07:12.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22f156d4fab2ae048f940"), 
+    "transactionreferenceno" : "BAPKTG765317CCC", 
+    "pscreateddate" : ISODate("2018-02-19T10:07:46.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22f436d4fab2ae048f941"), 
+    "transactionreferenceno" : "655DOC1505232422", 
+    "pscreateddate" : ISODate("2018-02-20T10:08:26.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22f976d4fab2ae048f943"), 
+    "transactionreferenceno" : "2018010800028215", 
+    "pscreateddate" : ISODate("2018-03-21T10:10:03.275+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22fd46d4fab2ae048f944"), 
+    "transactionreferenceno" : "5880ELCA1862190", 
+    "pscreateddate" : ISODate("2018-02-20T10:10:36.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22ffd6d4fab2ae048f945"), 
+    "transactionreferenceno" : "82011-0172873HKG", 
+    "pscreateddate" : ISODate("2018-02-21T10:11:36.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab230256d4fab2ae048f946"), 
+    "transactionreferenceno" : "SGBM0010896", 
+    "pscreateddate" : ISODate("2018-03-21T10:12:18.907+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab230556d4fab2ae048f947"), 
+    "transactionreferenceno" : "82011-0173881HKG", 
+    "pscreateddate" : ISODate("2018-02-22T10:12:57.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2307f6d4fab2ae048f948"), 
+    "transactionreferenceno" : "00140CDI00069779", 
+    "pscreateddate" : ISODate("2018-02-22T10:13:46.000+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab230cb6d4fab2ae048f949"), 
+    "transactionreferenceno" : "06997CAT0072179B", 
+    "pscreateddate" : ISODate("2018-03-21T10:14:29.162+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Rejected instead of Pending", 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab230ef6d4fab2ae048f94a"), 
+    "transactionreferenceno" : "1881ELCA1862222", 
+    "pscreateddate" : ISODate("2018-02-23T10:15:45.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2311a6d4fab2ae048f94b"), 
+    "transactionreferenceno" : "82011-0173685HKG", 
+    "pscreateddate" : ISODate("2018-02-23T10:16:20.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2313f6d4fab2ae048f94c"), 
+    "transactionreferenceno" : "DPCMAN124696", 
+    "pscreateddate" : ISODate("2018-02-23T10:17:03.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2316a6d4fab2ae048f94d"), 
+    "transactionreferenceno" : "08OR18000026960", 
+    "pscreateddate" : ISODate("2018-02-26T10:17:40.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab231c96d4fab2ae048f94f"), 
+    "transactionreferenceno" : ":SEME//AT02652305A", 
+    "pscreateddate" : ISODate("2018-03-21T10:19:15.424+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab231f76d4fab2ae048f950"), 
+    "transactionreferenceno" : "SG18ILC04626", 
+    "pscreateddate" : ISODate("2018-02-26T10:19:59.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2321e6d4fab2ae048f951"), 
+    "transactionreferenceno" : "SGCHR170705-0054", 
+    "pscreateddate" : ISODate("2018-02-27T10:20:44.000+0000"), 
+    "entity" : "SG-MUMBAI", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab232406d4fab2ae048f952"), 
+    "transactionreferenceno" : "131FSW1800362", 
+    "pscreateddate" : ISODate("2018-02-27T10:21:23.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2326c6d4fab2ae048f953"), 
+    "transactionreferenceno" : "82011-0173934HKG", 
+    "pscreateddate" : ISODate("2018-02-28T10:21:57.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2329c6d4fab2ae048f954"), 
+    "transactionreferenceno" : "25-111418-2-1", 
+    "pscreateddate" : ISODate("2018-02-28T10:22:42.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Released instead of Pending", 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+
+
+{ 
+    "_id" : ObjectId("5ab2165551b4a40ee02224fd"), 
+    "transactionreferenceno" : "ZJZ01IL000005303", 
+    "pscreateddate" : ISODate("2018-01-09T08:17:26.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASAKUMA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2166e51b4a40ee02224fe"), 
+    "transactionreferenceno" : "00001CDI09080213", 
+    "pscreateddate" : ISODate("2018-01-09T08:17:26.000+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASAKUMA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab222a151b4a40ee0222500"), 
+    "transactionreferenceno" : ":SEME//NT00025457A", 
+    "pscreateddate" : ISODate("2018-01-10T09:14:09.000+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASAKUMA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab222d551b4a40ee0222502"), 
+    "transactionreferenceno" : "6880ELCA1762159", 
+    "pscreateddate" : ISODate("2018-01-10T09:14:09.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASAKUMA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab222f751b4a40ee0222503"), 
+    "transactionreferenceno" : "25-110995-2-1", 
+    "pscreateddate" : ISODate("2018-01-11T09:14:09.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2231c51b4a40ee0222504"), 
+    "transactionreferenceno" : "06997FXH8078820A", 
+    "pscreateddate" : ISODate("2018-01-11T09:14:09.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2237a51b4a40ee0222506"), 
+    "transactionreferenceno" : ":CORP//185268", 
+    "pscreateddate" : ISODate("2018-01-12T09:18:16.000+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab223b151b4a40ee0222507"), 
+    "transactionreferenceno" : "82011-0173550HKG", 
+    "pscreateddate" : ISODate("2018-01-12T09:18:16.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "No Screenshot", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab223df51b4a40ee0222508"), 
+    "transactionreferenceno" : "2018010200151420", 
+    "pscreateddate" : ISODate("2018-01-15T09:18:16.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "null", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2241451b4a40ee0222509"), 
+    "transactionreferenceno" : "06997FXH8080630A", 
+    "pscreateddate" : ISODate("2018-01-16T09:18:16.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "null", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2242b51b4a40ee022250a"), 
+    "transactionreferenceno" : "25-110995-2", 
+    "pscreateddate" : ISODate("2018-01-16T09:18:16.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "null", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2244b51b4a40ee022250b"), 
+    "transactionreferenceno" : "2880ELCA18862181", 
+    "pscreateddate" : ISODate("2018-01-17T09:18:16.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "null", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2247851b4a40ee022250c"), 
+    "transactionreferenceno" : "1708562029", 
+    "pscreateddate" : ISODate("2018-01-17T09:18:16.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "null", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab227d051b4a40ee022250f"), 
+    "transactionreferenceno" : "00751CDI09083414", 
+    "pscreateddate" : ISODate("2018-01-18T09:34:59.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2284a51b4a40ee0222511"), 
+    "transactionreferenceno" : "00102CDI00069753", 
+    "pscreateddate" : ISODate("2018-01-18T09:34:59.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Released from Pending", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2288951b4a40ee0222512"), 
+    "transactionreferenceno" : "1881ELCA1761157", 
+    "pscreateddate" : ISODate("2018-01-19T09:39:34.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASTRANG", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab228f051b4a40ee0222514"), 
+    "transactionreferenceno" : "005MPBLU0019317", 
+    "pscreateddate" : ISODate("2018-01-19T09:41:16.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASTRANG", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2293251b4a40ee0222516"), 
+    "transactionreferenceno" : "E798180103026077", 
+    "pscreateddate" : ISODate("2018-01-22T09:41:16.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASTRANG", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2294c51b4a40ee0222517"), 
+    "transactionreferenceno" : "1881EUDC1773664", 
+    "pscreateddate" : ISODate("2018-01-22T09:41:16.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASTRANG", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab229ba51b4a40ee0222519"), 
+    "transactionreferenceno" : "BP33225B70552601", 
+    "pscreateddate" : ISODate("2018-01-22T09:44:25.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASTRANG", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab229f751b4a40ee022251a"), 
+    "transactionreferenceno" : "RDUOCB465162CRT", 
+    "pscreateddate" : ISODate("2018-01-23T09:44:25.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASTRANG", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Released from Pending", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22a8051b4a40ee022251c"), 
+    "transactionreferenceno" : "82011-0173792HKG", 
+    "pscreateddate" : ISODate("2018-01-23T09:44:25.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Released from Pending", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22aa451b4a40ee022251d"), 
+    "transactionreferenceno" : "6880EUDC1771489", 
+    "pscreateddate" : ISODate("2018-01-24T09:44:25.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Released from Pending", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22af851b4a40ee022251f"), 
+    "transactionreferenceno" : "131FSW1800092", 
+    "pscreateddate" : ISODate("2018-01-24T09:50:09.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22b1e51b4a40ee0222520"), 
+    "transactionreferenceno" : "6041800002HI", 
+    "pscreateddate" : ISODate("2018-01-24T09:50:09.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22b3d51b4a40ee0222521"), 
+    "transactionreferenceno" : "82011-0161830HKG", 
+    "pscreateddate" : ISODate("2018-01-25T09:50:09.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22b5d51b4a40ee0222522"), 
+    "transactionreferenceno" : ":CORP//134763", 
+    "pscreateddate" : ISODate("2018-01-25T09:50:09.000+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22be351b4a40ee0222524"), 
+    "transactionreferenceno" : "96001-0002595SGD", 
+    "pscreateddate" : ISODate("2018-01-25T09:53:52.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVENK", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22c3a51b4a40ee0222525"), 
+    "transactionreferenceno" : "82011-0173122HKG", 
+    "pscreateddate" : ISODate("2018-01-26T09:53:52.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVENK", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Released instead of Pending", 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22c7151b4a40ee0222526"), 
+    "transactionreferenceno" : "IH0401003414463", 
+    "pscreateddate" : ISODate("2018-01-26T09:56:19.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVENK", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22c9751b4a40ee0222527"), 
+    "transactionreferenceno" : "5880EUDC1770709", 
+    "pscreateddate" : ISODate("2018-01-29T09:56:19.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVENK", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22cb851b4a40ee0222528"), 
+    "transactionreferenceno" : "82011-0151039HKG", 
+    "pscreateddate" : ISODate("2018-01-29T09:56:19.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVENK", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22d0751b4a40ee0222529"), 
+    "transactionreferenceno" : ":SEME//HT57023554A", 
+    "pscreateddate" : ISODate("2018-01-30T09:56:19.000+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22d2751b4a40ee022252a"), 
+    "transactionreferenceno" : "005OUTTT0002618", 
+    "pscreateddate" : ISODate("2018-01-30T09:56:19.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22dea51b4a40ee022252c"), 
+    "transactionreferenceno" : "2018010400088430", 
+    "pscreateddate" : ISODate("2018-01-31T10:01:05.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab22e1651b4a40ee022252d"), 
+    "transactionreferenceno" : "1801040388911000", 
+    "pscreateddate" : ISODate("2018-01-31T10:01:05.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2343c51b4a40ee022252e"), 
+    "transactionreferenceno" : "NOSTINTREQ-TOK", 
+    "pscreateddate" : ISODate("2018-01-15T10:01:05.000+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab2355951b4a40ee0222530"), 
+    "transactionreferenceno" : "06997FXH7449291A", 
+    "pscreateddate" : ISODate("2018-02-28T10:01:05.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "Test"
+}
+{ 
+    "_id" : ObjectId("5ab227967166c30c7429fdcc"), 
+    "transactionreferenceno" : "TRF/FVB 152767", 
+    "pscreateddate" : ISODate("2018-01-31T09:35:25.000+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab227f27166c30c7429fdcd"), 
+    "transactionreferenceno" : "00102CDI00069525", 
+    "pscreateddate" : ISODate("2018-02-01T09:36:38.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab228656d4fab2ae048f920"), 
+    "transactionreferenceno" : "RDUOCB465570CRT", 
+    "pscreateddate" : ISODate("2018-02-01T09:38:30.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab228f96d4fab2ae048f922"), 
+    "transactionreferenceno" : "06997PEC9235662B", 
+    "pscreateddate" : ISODate("2018-03-21T09:41:48.143+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab229286d4fab2ae048f923"), 
+    "transactionreferenceno" : "06997FXH8116451A", 
+    "pscreateddate" : ISODate("2018-02-02T09:42:25.000+0000"), 
+    "entity" : "SG SEOUL", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab229856d4fab2ae048f924"), 
+    "transactionreferenceno" : ":CORP//184494", 
+    "pscreateddate" : ISODate("2018-02-02T09:43:09.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab229ba6d4fab2ae048f925"), 
+    "transactionreferenceno" : "005IMPLC0000118", 
+    "pscreateddate" : ISODate("2018-02-05T09:44:44.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASTGOUT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab229e66d4fab2ae048f926"), 
+    "transactionreferenceno" : "005FFIBG0000116", 
+    "pscreateddate" : ISODate("2018-02-05T09:45:35.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASTGOUT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22a1b6d4fab2ae048f927"), 
+    "transactionreferenceno" : "2018010400058820", 
+    "pscreateddate" : ISODate("2018-02-06T09:46:24.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASTGOUT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22a526d4fab2ae048f928"), 
+    "transactionreferenceno" : "SG18SOL01052", 
+    "pscreateddate" : ISODate("2018-02-06T09:47:15.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASTGOUT", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "No Screenshot", 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22a7d6d4fab2ae048f929"), 
+    "transactionreferenceno" : "1881ELCA1761938", 
+    "pscreateddate" : ISODate("2018-02-06T09:48:09.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASTGOUT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22aa66d4fab2ae048f92a"), 
+    "transactionreferenceno" : "00045CDI17000985", 
+    "pscreateddate" : ISODate("2018-02-07T09:48:51.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSRAJA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22ad56d4fab2ae048f92b"), 
+    "transactionreferenceno" : "SG17ILC04528", 
+    "pscreateddate" : ISODate("2018-02-07T09:49:34.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSRAJA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22afb6d4fab2ae048f92c"), 
+    "transactionreferenceno" : "00940-11-0035580", 
+    "pscreateddate" : ISODate("2018-02-08T09:50:18.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSRAJA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22b766d4fab2ae048f92e"), 
+    "transactionreferenceno" : "005FOTCG0000518", 
+    "pscreateddate" : ISODate("2018-03-21T09:52:20.846+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASSRAJA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22bbb6d4fab2ae048f92f"), 
+    "transactionreferenceno" : ":CORP//184634", 
+    "pscreateddate" : ISODate("2018-02-08T09:53:02.000+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASSRAJA", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22bf16d4fab2ae048f930"), 
+    "transactionreferenceno" : ":SEME//HT57070409A", 
+    "pscreateddate" : ISODate("2018-02-09T09:54:08.000+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22c216d4fab2ae048f931"), 
+    "transactionreferenceno" : "06997FXH1801059A", 
+    "pscreateddate" : ISODate("2018-02-09T09:55:01.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22c476d4fab2ae048f932"), 
+    "transactionreferenceno" : "TPCM0501000274", 
+    "pscreateddate" : ISODate("2018-02-12T09:55:50.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22c736d4fab2ae048f933"), 
+    "transactionreferenceno" : "92011-0018022JPN", 
+    "pscreateddate" : ISODate("2018-02-12T09:56:30.000+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Incorrect Comment", 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22c9e6d4fab2ae048f934"), 
+    "transactionreferenceno" : "6880FODB1772691", 
+    "pscreateddate" : ISODate("2018-02-13T09:57:13.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22cc36d4fab2ae048f935"), 
+    "transactionreferenceno" : "ASL20180105", 
+    "pscreateddate" : ISODate("2018-02-13T09:57:55.000+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22cf86d4fab2ae048f936"), 
+    "transactionreferenceno" : "HK105018BI615000", 
+    "pscreateddate" : ISODate("2018-02-14T09:58:32.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22d4d6d4fab2ae048f938"), 
+    "transactionreferenceno" : ":SEME//AT02647687A", 
+    "pscreateddate" : ISODate("2018-03-21T10:00:07.936+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22d786d4fab2ae048f939"), 
+    "transactionreferenceno" : "06997PEC9602349A", 
+    "pscreateddate" : ISODate("2018-02-14T10:00:49.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASVPERI", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22da46d4fab2ae048f93a"), 
+    "transactionreferenceno" : "F60105443515000", 
+    "pscreateddate" : ISODate("2018-02-15T10:01:32.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22ddb6d4fab2ae048f93b"), 
+    "transactionreferenceno" : "00111CDI18000003", 
+    "pscreateddate" : ISODate("2018-02-15T10:02:21.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22e2b6d4fab2ae048f93c"), 
+    "transactionreferenceno" : "000000385914", 
+    "pscreateddate" : ISODate("2018-02-15T10:03:15.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22e946d4fab2ae048f93d"), 
+    "transactionreferenceno" : "812027453291", 
+    "pscreateddate" : ISODate("2018-02-16T10:04:32.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22ec66d4fab2ae048f93e"), 
+    "transactionreferenceno" : "005XPLCSC171825", 
+    "pscreateddate" : ISODate("2018-02-16T10:06:18.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Responsibility Miss", 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22eeb6d4fab2ae048f93f"), 
+    "transactionreferenceno" : "005410738", 
+    "pscreateddate" : ISODate("2018-02-19T10:07:12.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22f156d4fab2ae048f940"), 
+    "transactionreferenceno" : "BAPKTG765317CCC", 
+    "pscreateddate" : ISODate("2018-02-19T10:07:46.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22f436d4fab2ae048f941"), 
+    "transactionreferenceno" : "655DOC1505232422", 
+    "pscreateddate" : ISODate("2018-02-20T10:08:26.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22f976d4fab2ae048f943"), 
+    "transactionreferenceno" : "2018010800028215", 
+    "pscreateddate" : ISODate("2018-03-21T10:10:03.275+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22fd46d4fab2ae048f944"), 
+    "transactionreferenceno" : "5880ELCA1862190", 
+    "pscreateddate" : ISODate("2018-02-20T10:10:36.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab22ffd6d4fab2ae048f945"), 
+    "transactionreferenceno" : "82011-0172873HKG", 
+    "pscreateddate" : ISODate("2018-02-21T10:11:36.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab230256d4fab2ae048f946"), 
+    "transactionreferenceno" : "SGBM0010896", 
+    "pscreateddate" : ISODate("2018-03-21T10:12:18.907+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab230556d4fab2ae048f947"), 
+    "transactionreferenceno" : "82011-0173881HKG", 
+    "pscreateddate" : ISODate("2018-02-22T10:12:57.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASACHIT", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2307f6d4fab2ae048f948"), 
+    "transactionreferenceno" : "00140CDI00069779", 
+    "pscreateddate" : ISODate("2018-02-22T10:13:46.000+0000"), 
+    "entity" : "SG TB", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab230cb6d4fab2ae048f949"), 
+    "transactionreferenceno" : "06997CAT0072179B", 
+    "pscreateddate" : ISODate("2018-03-21T10:14:29.162+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Rejected instead of Pending", 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab230ef6d4fab2ae048f94a"), 
+    "transactionreferenceno" : "1881ELCA1862222", 
+    "pscreateddate" : ISODate("2018-02-23T10:15:45.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2311a6d4fab2ae048f94b"), 
+    "transactionreferenceno" : "82011-0173685HKG", 
+    "pscreateddate" : ISODate("2018-02-23T10:16:20.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2313f6d4fab2ae048f94c"), 
+    "transactionreferenceno" : "DPCMAN124696", 
+    "pscreateddate" : ISODate("2018-02-23T10:17:03.000+0000"), 
+    "entity" : "SG MUMBAI", 
+    "operator" : "ASVIGS", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2316a6d4fab2ae048f94d"), 
+    "transactionreferenceno" : "08OR18000026960", 
+    "pscreateddate" : ISODate("2018-02-26T10:17:40.000+0000"), 
+    "entity" : "SG China", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab231c96d4fab2ae048f94f"), 
+    "transactionreferenceno" : ":SEME//AT02652305A", 
+    "pscreateddate" : ISODate("2018-03-21T10:19:15.424+0000"), 
+    "entity" : "SG S Hong Kong", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab231f76d4fab2ae048f950"), 
+    "transactionreferenceno" : "SG18ILC04626", 
+    "pscreateddate" : ISODate("2018-02-26T10:19:59.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2321e6d4fab2ae048f951"), 
+    "transactionreferenceno" : "SGCHR170705-0054", 
+    "pscreateddate" : ISODate("2018-02-27T10:20:44.000+0000"), 
+    "entity" : "SG-MUMBAI", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab232406d4fab2ae048f952"), 
+    "transactionreferenceno" : "131FSW1800362", 
+    "pscreateddate" : ISODate("2018-02-27T10:21:23.000+0000"), 
+    "entity" : "SG Seoul", 
+    "operator" : "ASSVISW", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2326c6d4fab2ae048f953"), 
+    "transactionreferenceno" : "82011-0173934HKG", 
+    "pscreateddate" : ISODate("2018-02-28T10:21:57.000+0000"), 
+    "entity" : "SG Hong Kong", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : null, 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ab2329c6d4fab2ae048f954"), 
+    "transactionreferenceno" : "25-111418-2-1", 
+    "pscreateddate" : ISODate("2018-02-28T10:22:42.000+0000"), 
+    "entity" : "SG Singapore", 
+    "operator" : "ASSVEER", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "Released instead of Pending", 
+    "region" : "Asia", 
+    "comments" : "TEST"
+}
+{ 
+    "_id" : ObjectId("5ac31d67eef6c83bf472ed29"), 
+    "transactionreferenceno" : "123", 
+    "pscreateddate" : ISODate("2018-04-03T06:21:12.463+0000"), 
+    "entity" : "test", 
+    "operator" : "etst", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Select Error Category", 
+    "region" : "Paris", 
+    "comments" : "test", 
+    "audit" : "Create: DateTime:04-03-2018 11:51", 
+    "createddate" : ISODate("2018-04-03T06:21:27.425+0000")
+}
+{ 
+    "_id" : ObjectId("5ac31d78eef6c83bf472ed2a"), 
+    "transactionreferenceno" : "56465", 
+    "pscreateddate" : ISODate("2018-03-03T06:21:27.000+0000"), 
+    "entity" : "skdjhf", 
+    "operator" : "ksdjfh", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Select Error Category", 
+    "region" : "Asia", 
+    "comments" : "dfgkjdfg", 
+    "audit" : "Create: DateTime:04-03-2018 11:51", 
+    "createddate" : ISODate("2018-04-03T06:21:44.852+0000")
+}
+{ 
+    "_id" : ObjectId("5ac31d9ceef6c83bf472ed2b"), 
+    "transactionreferenceno" : "sdkfkjhskjdf", 
+    "pscreateddate" : ISODate("2018-04-03T06:21:44.923+0000"), 
+    "entity" : "slkdfj", 
+    "operator" : "lsdkfj", 
+    "qualitycheck" : "Fail", 
+    "qualitycheckfailcategory" : "No screenshot", 
+    "region" : "Paris", 
+    "comments" : null, 
+    "audit" : "Create: DateTime:04-03-2018 11:52", 
+    "createddate" : ISODate("2018-04-03T06:22:20.127+0000")
+}
+{ 
+    "_id" : ObjectId("5ac31db5eef6c83bf472ed2c"), 
+    "transactionreferenceno" : "skdhgf", 
+    "pscreateddate" : ISODate("2018-04-03T06:22:20.181+0000"), 
+    "entity" : "sskdfhj", 
+    "operator" : "sldjkfs", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Select Error Category", 
+    "region" : "Paris", 
+    "comments" : "sdf", 
+    "audit" : "Create: DateTime:04-03-2018 11:52", 
+    "createddate" : ISODate("2018-04-03T06:22:45.784+0000")
+}
+{ 
+    "_id" : ObjectId("5ac31dbdeef6c83bf472ed2d"), 
+    "transactionreferenceno" : "sdfsdf", 
+    "pscreateddate" : ISODate("2018-04-03T06:22:45.830+0000"), 
+    "entity" : "sdf", 
+    "operator" : "sdf", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Select Error Category", 
+    "region" : "Paris", 
+    "comments" : "sdfsdf", 
+    "audit" : "Create: DateTime:04-03-2018 11:52", 
+    "createddate" : ISODate("2018-04-03T06:22:53.646+0000")
+}
+{ 
+    "_id" : ObjectId("5ac31dcaeef6c83bf472ed2e"), 
+    "transactionreferenceno" : "sdf", 
+    "pscreateddate" : ISODate("2018-03-04T06:22:53.000+0000"), 
+    "entity" : "sdf", 
+    "operator" : "sdf", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Select Error Category", 
+    "region" : "Paris", 
+    "comments" : null, 
+    "audit" : "Create: DateTime:04-03-2018 11:53", 
+    "createddate" : ISODate("2018-04-03T06:23:06.061+0000")
+}
+{ 
+    "_id" : ObjectId("5ac31df2eef6c83bf472ed2f"), 
+    "transactionreferenceno" : "dfs", 
+    "pscreateddate" : ISODate("2018-04-18T06:23:06.000+0000"), 
+    "entity" : "dsf", 
+    "operator" : "sdf", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Select Error Category", 
+    "region" : "Paris", 
+    "comments" : "sdf", 
+    "audit" : "Create: DateTime:04-03-2018 11:53", 
+    "createddate" : ISODate("2018-04-03T06:23:46.287+0000")
+}
+{ 
+    "_id" : ObjectId("5ac35637eef6c83bf472ed30"), 
+    "transactionreferenceno" : "jskdhfsgk", 
+    "pscreateddate" : ISODate("2018-04-03T10:23:41.634+0000"), 
+    "entity" : "skdjfh", 
+    "operator" : "ksdjfh", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Select Error Category", 
+    "region" : "Asia", 
+    "comments" : ",dsjfd", 
+    "audit" : "Create: DateTime:04-03-2018 15:53", 
+    "createddate" : ISODate("2018-04-03T10:23:51.089+0000")
+}
+{ 
+    "_id" : ObjectId("5ac356aeeef6c83bf472ed31"), 
+    "transactionreferenceno" : "skdjfh", 
+    "pscreateddate" : ISODate("2018-05-03T10:25:35.000+0000"), 
+    "entity" : "ksdjfh", 
+    "operator" : "ksdjfh", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Select Error Category", 
+    "region" : "Asia", 
+    "comments" : "sdkfngd", 
+    "audit" : "Create: DateTime:04-03-2018 15:55", 
+    "createddate" : ISODate("2018-04-03T10:25:50.700+0000")
+}
+{ 
+    "_id" : ObjectId("5ac356bbeef6c83bf472ed32"), 
+    "transactionreferenceno" : "ksjdhf", 
+    "pscreateddate" : ISODate("2018-06-05T10:25:50.000+0000"), 
+    "entity" : "ksdjfh", 
+    "operator" : "skdjfh", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Select Error Category", 
+    "region" : "Asia", 
+    "comments" : "sdfsf", 
+    "audit" : "Create: DateTime:04-03-2018 15:56", 
+    "createddate" : ISODate("2018-04-03T10:26:03.463+0000")
+}
+{ 
+    "_id" : ObjectId("5ac356c8eef6c83bf472ed33"), 
+    "transactionreferenceno" : "ksdjfh", 
+    "pscreateddate" : ISODate("2018-07-19T10:26:03.000+0000"), 
+    "entity" : "sksdjfh", 
+    "operator" : "kdsjfh", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Select Error Category", 
+    "region" : "Asia", 
+    "comments" : "sdfsdf", 
+    "audit" : "Create: DateTime:04-03-2018 15:56", 
+    "createddate" : ISODate("2018-04-03T10:26:16.038+0000")
+}
+{ 
+    "_id" : ObjectId("5ac46a8cccf3701a80cd3d91"), 
+    "transactionreferenceno" : "123ksdjfh", 
+    "pscreateddate" : ISODate("2018-04-04T06:02:26.526+0000"), 
+    "entity" : "SLKDJ", 
+    "operator" : "LDFKJG", 
+    "qualitycheck" : "Pass", 
+    "qualitycheckfailcategory" : "Select Error Category", 
+    "region" : "Asia", 
+    "comments" : "TERST", 
+    "audit" : "Create: DateTime:04-04-2018 11:32", 
+    "createddate" : ISODate("2018-04-04T06:02:52.527+0000")
+}
