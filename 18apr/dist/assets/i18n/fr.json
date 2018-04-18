@@ -1,0 +1,99 @@
+{
+  "THEME_HEADER_CHOOSE_LANGUAGE": "Choisissez votre langue",
+  "menu": {
+    "dashboard": "Tableau de Bord",
+    "createreport": "Créer un Rapport de Contrôle",
+    "downloadreport": "Télécharger le Rapport de Contrôle"
+  },
+
+
+
+
+
+
+
+
+
+
+
+  "CREATE_CONTROL_REPORT_TITLE":"Créer un rapport de contrôle",
+
+
+  "TRANSACTION_REFERENCE_NO":"Numéro de référence de la transaction",
+
+
+
+
+
+
+  "ENTITY":"Entité",
+
+
+  "OPERATOR":"Opérateur",
+
+
+  "QUALITY_CHECK":"Contrôle de qualité",
+
+
+  "COMMENTS":"Commentaires",
+
+
+  "START_DATE": "Date de début",
+
+
+  "END_DATE":"Date de fin",
+
+  "DOWNLOAD":"Télécharger",
+  
+"REGION":"Région",
+
+  
+"SAVE":"Enregistrer",
+
+"NEW":"Nouveau",
+
+
+
+
+
+
+"NO_RESULTS_FOUND":"Aucun résultat trouvé",
+
+
+"QUALITY_CHECK_FAIL_CATEGORY":"Catégorie d'Échec",
+
+
+
+
+"MONTHY_TRENDS" :"Tendances mensuelles",
+
+
+"ERRORS_BY_CATEGORY":"Erreurs par Catégorie",
+
+
+"PASS" : "Succès",
+
+"FAIL": "Échec",
+"MONTH":"Mois",
+"COUNT":"Comptes"
+
+
+,"RELEASED_AT_L1" :"Mal libéré à L1"
+
+,"RELEASED_FROM_PENDING":"Mal libéré d' en attente"
+
+,"RELEASED_INSTEAD_OF_PENDING" :"Mal libéré au lieu d' en attente"
+
+,"REJECTED_INSTEAD_OF_PENDING":"Mal rejeté  au lieu d' en attente"
+
+,"RESPONSIBILITY_MISS":"Responsabilité échec"
+,"INCORRECT_COMMENT":"Commentaire incorrect"
+,"NO_SCREENSHOT":"Captures d'ecran n'ont pas capturé"
+
+  ,"TOTAL_EVIDENCE_CAPTURED" : "Preuves totales capturées"
+  ,"EVIDENCE_DAY_WISE":"Preuves quotidiennes"
+  ,"EVIDENCE_MONTH_WISE":"Psreuves mensuelles"
+
+,"SELECT":"Sélectionnez"
+,"ASIA":"Asie"
+}
